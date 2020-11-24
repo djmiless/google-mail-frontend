@@ -1,0 +1,119 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.major{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 100%;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.main-section{
+    width: 100%;
+}
+.main-two{
+    width: 100%;
+}
+header{
+    background-color: greenyellow;
+}
+.google{
+    width: 50%;
+    float: left;
+    padding-top: 20px;
+    text-indent: 155px;
+    
+}
+.first-side{
+    float: left;
+    width: 50%;
+}
+.top-right{
+    width: 50%;
+    list-style: none;
+}
+.list{
+    display: inline-block;
+    margin: 1rem;
+}
+.second-side{
+    list-style: none;
+    text-decoration: none;
+    text-indent: 10px;
+    margin-left: 10%;
+    
+}
+.second-list{
+    display: inline-block;
+    margin: 1px;
+}
+first-image.{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    max-height: 50px;
+    max-width: 30px;
+}
+.my-sec{
+    width: 100%;
+}
+.img{
+    width: 100%;
+    margin: auto;
+}
+.my-sub{
+    width: 100%;
+    margin: auto;
+    margin-top: 50px;
+}
+.second-mysub{
+    clear: left;
+    width: 100%;
+}
+.lower-section{
+    width: 50%;
+    float: left;
+
+}
+.lower-sectionxx{
+    float: left;
+    width: 50%;
+}
+.low-sub{
+    margin-bottom: 20px;
+    padding-right: 200px;
+}
+.lower-sub{
+    margin-bottom: 20px;
+}
+.lowest-sub{
+    width: 50%;
+    float: left;
+    margin: auto;
+}
+.ground{
+    padding-right: 200px;
+    margin-bottom: 20px;
+}
+.foot{
+    width: 100%;
+}
+.low-foot{
+    margin: 1px;
+    display: inline;
+
+}
+.low-footer{
+    margin: 1px;
+    display: inline;
+
+}
+
+.footed{
+    width: 50%;
+    list-style: none;
+    margin-bottom: 10px;
+}
+}
